@@ -3,6 +3,7 @@ Dylan Martin - 20063204
 
 The aim of this application is to create subjects along with several key attributes. The user will also be able to udate or delete these subjects. Users can also create assignmnets for these subjects and update and delete these also. The menu layout is conditional, A search function is implemented. When adding subjects/assignments form can be reset. Splash menu is implemented. Third Party API is implemented.
 
+Since demo delete all subjects/assignments has been fixed. Instead of a button at the top of list layout, the user has to hold(long click) any delete subject/assignment button for the option to come up.
 
 #Persistance Assignments can be created for subjects that user has created.
 
